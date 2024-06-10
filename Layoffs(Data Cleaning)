@@ -1,6 +1,7 @@
-#Aquire youre your cvs file 
+#Aquire your cvs file 
 #Remmember to double click to avoid error message
 #First upload the data set from csv
 #MySQL
+-- create new schema
 
 -- Data Cleaning
