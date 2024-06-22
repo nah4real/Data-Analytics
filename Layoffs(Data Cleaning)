@@ -1,6 +1,7 @@
 #Aquire your cvs file 
 #Remmember to double click to avoid error message
 #First upload the data set from csv
+
 #MySQL
 
 -- create new schema, right click table data, then click import wizard, then click browse and choose data set, click next
